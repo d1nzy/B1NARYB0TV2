@@ -2,7 +2,7 @@
 
 It's just Immortalizd's bot with embeds and more b1nzy quotes.
 
-## Hhow to install
+## How to install
 
 To download, go in cmd, move to the directory you want to install and then type `git clone http://github.com/d1nzy/B1NARYB0TV2.git`
 
