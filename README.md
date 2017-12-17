@@ -1,6 +1,6 @@
 # About B1NARYB0TV2
 
-It's just Immortalizd's bot with embeds and more b1nzy quotes.
+It's just Immortalizd's bot with embeds and more b1nzy quotes. The bot also takes a few seconds to send the first command and we don't know why, so just give it a few seconds.
 
 ## How to install
 
