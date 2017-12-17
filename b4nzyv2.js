@@ -1,5 +1,3 @@
-import { setTimeout } from "timers";
-
 `use strict`
 var Eris = require("eris")
 var userid = "your userid here";
