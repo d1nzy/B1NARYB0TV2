@@ -272,7 +272,7 @@ self.on("messageCreate", (msg) => {
                 }
             }});
             setTimeout(function(){ self.deleteMessage(msg.channel.id, msg.id) }, 10000);
-        } else if(msg.content === pf + "info") //info lul
+        } else if(msg.content === pf + "info") {//info lul
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
@@ -292,6 +292,7 @@ self.on("messageCreate", (msg) => {
             self.deleteMessage(msg.channel.id, msg.id);
             setTimeout(function() {process.exit(0);}, 500);
         }
-    });
+    }
+});
 
     self.connect();
