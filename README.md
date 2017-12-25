@@ -50,6 +50,8 @@ do `b.info` to see info about the bot
 
 `b.shittymemes`: ![i will literally ban you for making shitty memes](https://i.imgur.com/q4miz5p.png)
 
+`b.hey`: ![hey bud](https://i.imgur.com/6MF6UPX.png)
+
 `..die`: makes the bot die, duh.
 
 shoutout to immo for being okay with me skid his shit xd go check out B1NARYB0T ----> https://github.com/Immortalizd/B1NARYB0T
