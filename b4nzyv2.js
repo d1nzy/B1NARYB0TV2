@@ -1,8 +1,8 @@
 `use strict`
 var Eris = require("eris")
-var userid = "Your userid here";
-var token = "Your discord token here, DO NOT SHARE TO ANYONE!";
-var pf = "Your Prefix Here";
+var userid = "Your userid here"; //enable dev, right click your name, copy id
+var token = "Your discord token here, DO NOT SHARE TO ANYONE!"; // im serious, dont fucking leak this 
+var pf = "b."; //you can change the prefix
 let self = new Eris.CommandClient(token, {userAccount: true}, {
     description: "#bwnduv2",
     ignoreSelf: false,
