@@ -52,6 +52,8 @@ do `b.info` to see info about the bot
 
 `b.hey`: ![hey bud](https://i.imgur.com/6MF6UPX.png)
 
+`b.b4nzy`: ![banneddd](https://cdn.discordapp.com/attachments/409013908485963791/427435982611152896/b4nzy.gif)
+
 `..die`: makes the bot die, duh.
 
 shoutout to immo for being okay with me skid his shit xd go check out B1NARYB0T ----> https://github.com/Immortalizd/B1NARYB0T
