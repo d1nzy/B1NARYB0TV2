@@ -1,7 +1,7 @@
 `use strict`
 var Eris = require("eris")
 var userid = "Your userid here"; //enable dev, right click your name, copy id
-var token = "Your discord token here, DO NOT SHARE TO ANYONE!"; // im serious, dont fucking leak this 
+var token = "Your discord token here, DO NOT SHARE TO ANYONE!"; // im serious, dont fucking leak this
 var pf = "b."; //you can change the prefix
 let self = new Eris.CommandClient(token, {userAccount: true}, {
     description: "#bwnduv2",
@@ -20,7 +20,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -36,7 +36,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -52,7 +52,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -68,7 +68,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -84,7 +84,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -100,7 +100,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -116,7 +116,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -132,7 +132,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -148,7 +148,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -164,7 +164,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -180,7 +180,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -196,7 +196,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -212,7 +212,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -228,7 +228,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -244,7 +244,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -260,7 +260,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "http://takeb1nzyto.space"
                 },
                 image: {
@@ -276,7 +276,7 @@ self.on("messageCreate", (msg) => {
             self.editMessage(msg.channel.id, msg.id, {embed: {
               author: {
                 name: "b1naryb0t v2",
-                icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                 url: "http://takeb1nzyto.space"
               },
               image: {
@@ -288,18 +288,34 @@ self.on("messageCreate", (msg) => {
               }
             }});
             setTimeout(function(){ self.deleteMessage(msg.channel.id, msg.id) }, 10000);
+          } else if(msg.content == pf + "b4nzy") { //b4nzy
+            self.editMessage(msg.channel.id, msg.id, {embed: {
+              author: {
+                name: "b1naryb0t v2",
+                icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif"
+                url: "http://takeb1nzyto.space"
+              },
+              image: {
+                url: "https://cdn.discordapp.com/attachments/409013908485963791/427435982611152896/b4nzy.gif"
+                color: 0x7289DA
+              },
+              footer: {
+                timestamp: new Date()
+              }
+            }});
+            setTimeout(function(){ self.deleteMessage(msg.channel.id, msg.id) }, 10000);
         } else if(msg.content === pf + "info") {//info lul
             self.editMessage(msg.channel.id, msg.id, {embed: {
                 author: {
                     name: "b1naryb0t v2",
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     url: "https://github.com/Immortalizd/B1NARYB0T"
                 },
                 description: "I just wanna take this command to say thanks to these 2 people. <@!193882745573867521>, and the meme himself, <@!80351110224678912>. I love you two very much, so dont let anything happen to you, okay?!\noh, and the original git/sourcecode link is [here](https://github.com/Immortalizd/B1NARYB0T) or click the title.",
                 color: 0x7289DA,
                 timestamp: new Date(),
                 footer: {
-                    icon_url: "https://cdn.discordapp.com/avatars/80351110224678912/a_ca74eee11fb2aa8f142838870eead2ab.gif",
+                    icon_url: "https://cdn.discordapp.com/attachments/358714358517334016/429744399308685313/b1nzy_new.gif",
                     text: "Made in Eris by Immo, skidded and updated by d1nzy in Eris"
                 }
             }});
