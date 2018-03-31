@@ -288,7 +288,7 @@ self.on("messageCreate", (msg) => {
               }
             }});
             setTimeout(function(){ self.deleteMessage(msg.channel.id, msg.id) }, 10000);
-          } else if(msg.content == pf + "b4nzy") { //b4nzy
+          } else if(msg.content === pf + "b4nzy") { //b4nzy
             self.editMessage(msg.channel.id, msg.id, {embed: {
               author: {
                 name: "b1naryb0t v2",
